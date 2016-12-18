@@ -1,0 +1,22 @@
+# Compiled source #
+###################
+*.o
+*.map
+*.hex
+*.eep
+*.obj
+
+# images
+*.jpg
+*.bmp
+*.png
+
+# auxiliary files
+*.cmd
+*.bat
+
+# temporary files
+*.*~
+*.bak
+*.tmp
+
